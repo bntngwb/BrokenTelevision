@@ -1,7 +1,7 @@
 # Broken Television
 
 ## Preview
-You can view the live version of the project [here]([https://its.id/m/grakomA_tugas1_5025221034]).
+Project bisa diakses [disini](https://its.id/m/grakomA_tugas1_5025221034).
 
 ## Bahasa 
 - HTML
@@ -10,6 +10,6 @@ You can view the live version of the project [here]([https://its.id/m/grakomA_tu
 - JavaScript (WebGL)
 
 ## Deskripsi
-Program ini merupakan bentuk implementasi dari penggunaan WebGL pada website untuk menghasilkan rectangle secara abstrak
+Program ini merupakan bentuk implementasi dari penggunaan WebGL pada website untuk menghasilkan rectangle secara abstrak sebanyak 50 buah pada ukuran canvas yang ditetapkan, dan akan selalu menghasilkan pola baru setiap direfresh.
 
 
