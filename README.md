@@ -1,7 +1,7 @@
 # Broken Television
 
 ## Preview
-You can view the live version of the project [here]([https://your-live-preview-link.com](https://its.id/m/grakomA_tugas1_5025221034)]).
+You can view the live version of the project [here]([https://its.id/m/grakomA_tugas1_5025221034]).
 
 ## Bahasa 
 - HTML
