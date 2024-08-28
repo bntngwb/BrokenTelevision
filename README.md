@@ -1,5 +1,8 @@
 # Broken Television
 
+## Preview
+You can view the live version of the project [here]([https://your-live-preview-link.com](https://its.id/m/grakomA_tugas1_5025221034)]).
+
 ## Bahasa 
 - HTML
 - CSS
@@ -9,6 +12,4 @@
 ## Deskripsi
 Program ini merupakan bentuk implementasi dari penggunaan WebGL pada website untuk menghasilkan rectangle secara abstrak
 
-## Preview
-You can view the live version of the project [here](https://your-live-preview-link.com).
 
